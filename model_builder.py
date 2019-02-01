@@ -3,6 +3,8 @@
 Created on Sat Nov 17 17:26:37 2018
 
 @author: Acarbay
+
+Functions that aid in building and analyzing ML models.
 """
 import pandas as pd 
 import numpy as np
